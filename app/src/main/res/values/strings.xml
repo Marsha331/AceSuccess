@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AceSuccess</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">password</string>
+    <string name="log_in">Log In</string>
+    <string name="attempts_left">Attempts Left:</string>
+    <string name="cancel">Cancel</string>
+    <string name="number">3</string>
+</resources>
